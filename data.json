@@ -1,0 +1,64 @@
+{
+  "words": [
+    {
+      "word": "Html",
+      "hint": "Hyper Text Markup Language"
+    },
+    {
+      "word": "Css",
+      "hint": "Cascading Style Sheets"
+    },
+    {
+      "word": "Javascript",
+      "hint": "Programming language of the Web"
+    },
+    {
+      "word": "Github",
+      "hint": "Web-based version control repository"
+    },
+    {
+      "word": "React",
+      "hint": "JavaScript library for building user interfaces"
+    },
+    {
+      "word": "Node",
+      "hint": "Platform for building fast and scalable network applications"
+    },
+    {
+      "word": "Bootstrap",
+      "hint": "Front-end framework for developing responsive websites"
+    },
+    {
+      "word": "MongoDB",
+      "hint": "NoSQL database program using JSON-like documents"
+    },
+    {
+      "word": "Express",
+      "hint": "Minimalist web framework for Node.js"
+    },
+    {
+      "word": "Vue",
+      "hint": "Progressive JavaScript framework for UI development"
+    },
+    {
+      "word": "Angular",
+      "hint": "Framework for building single-page client applications"
+    },
+    {
+      "word": "Sass",
+      "hint": "CSS preprocessor for adding power to basic styles"
+    },
+    {
+      "word": "TypeScript",
+      "hint": "Superset of JavaScript compiling to plain JavaScript"
+    },
+    {
+      "word": "Docker",
+      "hint": "Platform for building and running applications in containers"
+    },
+    {
+      "word": "Webpack",
+      "hint": "Static module bundler for modern JavaScript applications"
+    }
+  ]
+}
